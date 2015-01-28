@@ -1,4 +1,4 @@
-# OberJVM translator
+# OberJVM Translator
 
 
 ## Status
